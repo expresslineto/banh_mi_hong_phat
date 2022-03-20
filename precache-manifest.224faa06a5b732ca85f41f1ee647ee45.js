@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dd5a8c2d21e09d937b8dd9b979fec4a",
+    "revision": "e5c47397300417d0aefde8f4c6c56314",
     "url": "/banh_mi_hong_phat/index.html"
   },
   {
-    "revision": "cb6c7d400056cdf99435",
-    "url": "/banh_mi_hong_phat/static/css/main.d2f390e0.chunk.css"
+    "revision": "fd3f6f688d80a0be1e63",
+    "url": "/banh_mi_hong_phat/static/css/main.72275f39.chunk.css"
   },
   {
-    "revision": "960323c2513432f5f0b6",
-    "url": "/banh_mi_hong_phat/static/js/2.a93ee04d.chunk.js"
+    "revision": "ba9da5c9d7dff335351a",
+    "url": "/banh_mi_hong_phat/static/js/2.99be5915.chunk.js"
   },
   {
     "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/banh_mi_hong_phat/static/js/2.a93ee04d.chunk.js.LICENSE.txt"
+    "url": "/banh_mi_hong_phat/static/js/2.99be5915.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb6c7d400056cdf99435",
-    "url": "/banh_mi_hong_phat/static/js/main.4cb9ef5f.chunk.js"
+    "revision": "fd3f6f688d80a0be1e63",
+    "url": "/banh_mi_hong_phat/static/js/main.8a164feb.chunk.js"
   },
   {
     "revision": "ee0da5a872062a0bcbab",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fe164e0da90fc4348f598e1d4833b87c",
     "url": "/banh_mi_hong_phat/static/media/banh mi hong phat menu_tv 55- 1 copy.fe164e0d.jpg"
+  },
+  {
+    "revision": "0d15428c019682a49100f8b6ea07411f",
+    "url": "/banh_mi_hong_phat/static/media/logo.0d15428c.png"
   }
 ]);
