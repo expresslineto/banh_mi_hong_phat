@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/banh_mi_hong_phat/precache-manifest.224faa06a5b732ca85f41f1ee647ee45.js"
+  "/banh_mi_hong_phat/precache-manifest.371d4aeb951babef1856665605876e57.js"
 );
 
 self.addEventListener('message', (event) => {
