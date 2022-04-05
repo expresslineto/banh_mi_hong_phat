@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95ace9ef87bb89bd954b5380dca5f46e",
+    "revision": "f62b79f5dee634e91acba34af8dc2149",
     "url": "/banh_mi_hong_phat/index.html"
   },
   {
-    "revision": "fd3f6f688d80a0be1e63",
+    "revision": "dc8eaca6ca0de8e71d69",
     "url": "/banh_mi_hong_phat/static/css/main.72275f39.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/banh_mi_hong_phat/static/js/2.99be5915.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd3f6f688d80a0be1e63",
-    "url": "/banh_mi_hong_phat/static/js/main.8a164feb.chunk.js"
+    "revision": "dc8eaca6ca0de8e71d69",
+    "url": "/banh_mi_hong_phat/static/js/main.73f7359d.chunk.js"
   },
   {
     "revision": "ee0da5a872062a0bcbab",
