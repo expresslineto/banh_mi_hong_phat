@@ -1,30 +1,29 @@
 {
   "files": {
     "main.css": "/banh_mi_hong_phat/static/css/main.72275f39.chunk.css",
-    "main.js": "/banh_mi_hong_phat/static/js/main.73f7359d.chunk.js",
-    "main.js.map": "/banh_mi_hong_phat/static/js/main.73f7359d.chunk.js.map",
+    "main.js": "/banh_mi_hong_phat/static/js/main.3015e022.chunk.js",
+    "main.js.map": "/banh_mi_hong_phat/static/js/main.3015e022.chunk.js.map",
     "runtime-main.js": "/banh_mi_hong_phat/static/js/runtime-main.3e1f956f.js",
     "runtime-main.js.map": "/banh_mi_hong_phat/static/js/runtime-main.3e1f956f.js.map",
-    "static/js/2.99be5915.chunk.js": "/banh_mi_hong_phat/static/js/2.99be5915.chunk.js",
-    "static/js/2.99be5915.chunk.js.map": "/banh_mi_hong_phat/static/js/2.99be5915.chunk.js.map",
+    "static/js/2.aa1816b6.chunk.js": "/banh_mi_hong_phat/static/js/2.aa1816b6.chunk.js",
+    "static/js/2.aa1816b6.chunk.js.map": "/banh_mi_hong_phat/static/js/2.aa1816b6.chunk.js.map",
     "index.html": "/banh_mi_hong_phat/index.html",
-    "precache-manifest.a0480207c7a817853f91981450427f44.js": "/banh_mi_hong_phat/precache-manifest.a0480207c7a817853f91981450427f44.js",
+    "precache-manifest.34367d7cafd9a4d52f6a763da2eacd01.js": "/banh_mi_hong_phat/precache-manifest.34367d7cafd9a4d52f6a763da2eacd01.js",
     "service-worker.js": "/banh_mi_hong_phat/service-worker.js",
     "static/css/main.72275f39.chunk.css.map": "/banh_mi_hong_phat/static/css/main.72275f39.chunk.css.map",
-    "static/js/2.99be5915.chunk.js.LICENSE.txt": "/banh_mi_hong_phat/static/js/2.99be5915.chunk.js.LICENSE.txt",
-    "static/media/banh mi hong phat menu-01.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu-01.fb161f92.jpg",
-    "static/media/banh mi hong phat menu-02.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu-02.95b83016.jpg",
-    "static/media/banh mi hong phat menu-03.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu-03.272a1379.jpg",
-    "static/media/banh mi hong phat menu_tv 55- 1 copy 2.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu_tv 55- 1 copy 2.fca4d53e.jpg",
-    "static/media/banh mi hong phat menu_tv 55- 1 copy 3.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu_tv 55- 1 copy 3.e2d6d1a6.jpg",
-    "static/media/banh mi hong phat menu_tv 55- 1 copy 4.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu_tv 55- 1 copy 4.714acbfd.jpg",
-    "static/media/banh mi hong phat menu_tv 55- 1 copy.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu_tv 55- 1 copy.fe164e0d.jpg",
+    "static/js/2.aa1816b6.chunk.js.LICENSE.txt": "/banh_mi_hong_phat/static/js/2.aa1816b6.chunk.js.LICENSE.txt",
+    "static/media/banh mi hong phat menu V2 - BO BOT BANH MI-01.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu V2 - BO BOT BANH MI-01.398aa840.jpg",
+    "static/media/banh mi hong phat menu V2 - BO BOT BANH MI-02.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu V2 - BO BOT BANH MI-02.10de515c.jpg",
+    "static/media/banh mi hong phat menu V2 - BO BOT BANH MI-03.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu V2 - BO BOT BANH MI-03.601a47ef.jpg",
+    "static/media/banh mi hong phat menu V2 - BO BOT BANH MI_letter.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu V2 - BO BOT BANH MI_letter.4f6a108a.jpg",
+    "static/media/banh mi hong phat menu V2 - BO BOT BANH MI_tv 55- 1 copy 4.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu V2 - BO BOT BANH MI_tv 55- 1 copy 4.1fd2f9c7.jpg",
+    "static/media/banh mi hong phat menu V2 - BO BOT BANH MI_tv 55- 1 copy.jpg": "/banh_mi_hong_phat/static/media/banh mi hong phat menu V2 - BO BOT BANH MI_tv 55- 1 copy.b00ba416.jpg",
     "static/media/logo.png": "/banh_mi_hong_phat/static/media/logo.0d15428c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3e1f956f.js",
-    "static/js/2.99be5915.chunk.js",
+    "static/js/2.aa1816b6.chunk.js",
     "static/css/main.72275f39.chunk.css",
-    "static/js/main.73f7359d.chunk.js"
+    "static/js/main.3015e022.chunk.js"
   ]
 }
